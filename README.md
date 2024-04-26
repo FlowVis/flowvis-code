@@ -26,10 +26,10 @@ Its connection is made using a local database.
 
 
 # Authors
-- @LiceeIF: Alice Maria
+- [Alice Maria](https://github.com/LiceeIF)
 
 This collaborator was responsible for designing and developing the front-end of this social network.
-- @RodrigoBaesa: Rodrigo Baesa
+- [Rodrigo Baesa](https://github.com/RodrigoBaesa)
 
 This collaborator was responsible for developing the back-end of this social network.
 
