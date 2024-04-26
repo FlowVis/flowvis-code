@@ -27,8 +27,10 @@ Its connection is made using a local database.
 
 # Authors
 - @LiceeIF: Alice Maria
+
 This collaborator was responsible for designing and developing the front-end of this social network.
 - @RodrigoBaesa: Rodrigo Baesa
+
 This collaborator was responsible for developing the back-end of this social network.
 
 # Installation
