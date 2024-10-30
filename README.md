@@ -1,20 +1,17 @@
 # FlowVis: a social media for racing enthusiasts
 ### Our social network aims to create a safer environment within the motor racing, karting, automotive, and related events community, where enthusiasts can connect reliably and meaningfully. Our goal is to foster a secure and enjoyable platform for enthusiasts to interact and engage with one another.
 
-> This project was developed as an evaluation requirement for the course of Theory and Systems development (TDS) under the guidance of Professor Leonardo Motta.
+> This project was developed as an evaluation requirement for the following courses: Theory and Systems development, Web Applications and Programming Language; Under the guidance of Professor Andre Evandro and Leonardo Motta.
 
 # Appendix
-## Django project using PostgreSQL
-The web application was developed using:
+## Flask Project
+The application was developed using:
 
 ### Programming Languages: 
 - Python 
 
 ### Framework:
-- Django
-- API Rest
-
-Construction: Creating a Django project will provide the Models, once we have the models, we make the migrations to our local database, the project will be working in our localhost. 
+- Flask
 
 # Summary
 ### Repository Information
@@ -26,12 +23,12 @@ Its connection is made using a local database.
 
 
 # Authors
-- [Alice Maria](https://github.com/LiceeIF)
 
 This collaborator was responsible for designing and developing the front-end of this social network.
-- [Rodrigo Baesa](https://github.com/RodrigoBaesa)
+- [Alice Maria](https://github.com/LiceeIF)
 
 This collaborator was responsible for developing the back-end of this social network.
+- [Rodrigo Baesa](https://github.com/RodrigoBaesa)
 
 # Installation
 Install in your machine:
