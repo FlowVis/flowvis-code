@@ -8,7 +8,9 @@
 The application was developed using:
 
 ### Programming Languages: 
-- Python 
+- Python
+- CSS
+- HTML
 
 ### Framework:
 - Flask
